@@ -1,0 +1,10 @@
+User A
+5000
+User B
+3470
+User C
+1800
+User D
+1700
+User E
+1700

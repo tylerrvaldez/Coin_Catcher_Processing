@@ -1,0 +1,20 @@
+SuccessfulTeam:) Project Description
+Ziyue Fan, Peyton Rodgers, Tyler Valdez, Deborah Lin
+
+* Introduction *
+Our project intends to be a video game, where the user is in control of a basket in which they use to gather coins and build up their high score. Catching foreign items will cause the player to lose a life and catching three of these items will cause the player to lose. The user can press 'o' to use the shield skill and avoid a one-round 
+
+* Classes *
+Our project file makes use of classes to create the coins, bombs, basket, and the motion of the falling objects. Using png pictures as the display for our objects, we also added music to better immerse the user in the video game experience.The skill class enables users to use the skill with a 10 seconds cool down time.
+
+* Images/ Music we Used *
+Images - https://www.freepik.com/upklyak 
+Music - https://www.chosic.com/download-audio/27248/
+
+* Contribution *
+Basket, Background, Animation - Peyton;
+Falling Items (Coins, Bombs), Rankings - Ziyue;
+Settings, Sounds, Scoreboard - Deborah;
+Skills, README & Description - Tyler;
+
+
